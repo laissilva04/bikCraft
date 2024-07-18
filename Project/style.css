@@ -5,13 +5,14 @@ body{
     gap: 3rem;
     justify-items: center;
     /*justificar os itens ao centro*/
-    margin-top: 2rem;
+    margin: 20px 0 0;
 }
 .header {
     margin-top: 1rem    ;
     display: grid;
     justify-items: center;
     gap:60px;
+    padding: 0 10px;
 }
 
 .links a {
@@ -99,6 +100,7 @@ p {
 .introducao-cover img{
     object-fit: cover;
     height: 100%;
+    width: 100%;
 }
 .botao a {
     background-color: #e21;
@@ -173,7 +175,7 @@ section{
     }
 }
 
-@media (max-width: 600px){
+@media (max-width: 800px){
     body {
         gap:30px;
         margin-top: 20px;
@@ -187,7 +189,7 @@ section{
     .introducao{
         text-align: left;
         justify-items: start;
-    }
+    }   
     .introducao::before {
         display: none;
     }
