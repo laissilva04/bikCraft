@@ -1,8 +1,8 @@
 Projeto desenvolvido para práticas de HTML + CSS e utilização de variaveis para modo noturno.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/laissilva04/BikCraft/assets/146146262/f1f18995-ebb1-4ff4-a20f-ec2a15ee3922" width="425px" />
-  <img src="https://github.com/laissilva04/BikCraft/assets/146146262/5dbce875-05b4-4a25-9a04-ad79b29238ee" width="425px" />
+  <img src="https://github.com/laissilva04/BikCraft/assets/146146262/f1f18995-ebb1-4ff4-a20f-ec2a15ee3922" width="400px" />
+  <img src="https://github.com/laissilva04/BikCraft/assets/146146262/5dbce875-05b4-4a25-9a04-ad79b29238ee" width="400px" />
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
